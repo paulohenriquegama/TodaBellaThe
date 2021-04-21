@@ -1,1 +1,1 @@
-Olá aqui é um teste.
+Olá esse repositorio tem como objeto aprender a fazer uma loja vitual do zero, essa loja já foi criada em wordpress mas quero faze-la programando do zero.
